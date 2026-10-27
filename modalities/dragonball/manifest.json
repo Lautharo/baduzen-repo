@@ -4139,10 +4139,10 @@
             "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/dragonball/mods/justzoom_forge_3.0.1_MC_1.20.1.jar"
         },
         {
-            "RelativePath": "mods/kaipath-1.4.0.jar",
-            "Sha256": "9190eeaded39dc45fc72ed21b0eedee38650353e4596e26a67538faa5f12b18f",
-            "Size": 17045527,
-            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/dragonball/mods/kaipath-1.4.0.jar"
+            "RelativePath": "mods/kaipath-1.3.31.jar",
+            "Sha256": "a597ee347bdd7daed5b1ca24c17979c69dd794d7eccc09e885080357a0e330c7",
+            "Size": 16811911,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/dragonball/mods/kaipath-1.3.31.jar"
         },
         {
             "RelativePath": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
@@ -4539,6 +4539,12 @@
             "Sha256": "f7c637b291cccd2c4a4f94048a6d08a48065c0618fec03043d6f9e15af27948a",
             "Size": 4995865,
             "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/dragonball/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.2.1.jar"
+        },
+        {
+            "RelativePath": "mods/Noea-1.2.0-DMZ-2.1.3.jar",
+            "Sha256": "3B3B864AAF517D4467091DE42128585102A982F5C6D3A0687DBCA6C3441474CC",
+            "Size": 106576896,
+            "Url": "https://drive.google.com/uc?export=download&id=1q6T73UbHZD82Ssb8n0kVzdPZhnVHJnAA"
         }
     ]
 }
