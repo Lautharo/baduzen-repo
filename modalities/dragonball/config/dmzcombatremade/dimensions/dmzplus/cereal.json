@@ -1,0 +1,45 @@
+{
+  "dimension": "dmzplus:cereal",
+
+  // Opts this dimension into the full zone/heat/tier/boss-gate/capsule-loot system, no safe ring.
+  "managed": true,
+
+  // Dinosaurs plus Bandit, no Sabertooth here (that's Vampa's own flavor instead). Spider and
+  // Cave Spider added as a generic hostile-alien-wilderness vanilla flavor - no specific DBZ
+  // canon tie for this planet, so a straightforward complement to the dinosaur/bandit frontier feel.
+  "enemies": [
+    { "entity": "dragonminez:dino1", "weight": 22 },
+    { "entity": "dragonminez:dino2", "weight": 18 },
+    { "entity": "dragonminez:dino3", "weight": 14 },
+    { "entity": "dragonminez:dinokid", "weight": 10 },
+    { "entity": "dragonminez:bandit", "weight": 12 },
+    { "entity": "minecraft:spider", "weight": 15 },
+    { "entity": "minecraft:cave_spider", "weight": 8 }
+  ],
+
+  // Global tier slice on the shared 1-19 scale (see stats/ZoneHeatLevels) - real floors ~800,737
+  // to ~1,073,842.
+  "tier_range": { "min": 10, "max": 11 },
+
+  // 10-to-60-minute linear pacing scale by tier position - Cereal is tier 10.
+  "tier_up_duration_seconds": 2160,
+
+  // Tier floors and Zone Capsule loot for this dimension's own tiers - see namek.json for the full
+  // explanation of the dmzplus/base split. base holds the real shared 5-level ladder/point ranges
+  // every dimension uses without DMZPlus (identical here to every other dimension's own base block)
+  // - edit just this file's copy to override just Cereal in base mode.
+  "tier_floors": {
+    "dmzplus": { "10": 800737, "11": 927290 },
+    "base": { "1": 0, "2": 68000, "3": 200000, "4": 500000, "5": 1000000 }
+  },
+  "zone_capsule_tiers": {
+    "dmzplus": {
+      "10": { "min_points": 126, "max_points": 215 },
+      "11": { "min_points": 145, "max_points": 247 }
+    },
+    "base": {
+      "4": { "min_points": 10, "max_points": 25 },
+      "5": { "min_points": 50, "max_points": 100 }
+    }
+  }
+}

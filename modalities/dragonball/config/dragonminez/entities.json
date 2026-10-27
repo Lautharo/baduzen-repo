@@ -1,0 +1,105 @@
+{
+  "configVersion": "2.1.3",
+  "defaultEntityStats": {
+    "dragonminez:dino1": {
+      "Defense": 2,
+      "health": 150,
+      "meleeDamage": 4.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:sabertooth": {
+      "Defense": 2,
+      "health": 45,
+      "meleeDamage": 2.5,
+      "kiDamage": 0.0
+    },
+    "dragonminez:dino3": {
+      "Defense": 2,
+      "health": 90,
+      "meleeDamage": 5.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:mini_buu": {
+      "Defense": 2,
+      "health": 11550,
+      "meleeDamage": 162.0,
+      "kiDamage": 146.2
+    },
+    "dragonminez:dino2": {
+      "Defense": 2,
+      "health": 90,
+      "meleeDamage": 6.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:bandit": {
+      "Defense": 2,
+      "health": 90,
+      "meleeDamage": 5.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:red_ribbon_soldier": {
+      "Defense": 2,
+      "health": 60,
+      "meleeDamage": 2.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:dinokid": {
+      "Defense": 2,
+      "health": 45,
+      "meleeDamage": 2.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:robot1": {
+      "Defense": 2,
+      "health": 150,
+      "meleeDamage": 7.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:robot2": {
+      "Defense": 2,
+      "health": 150,
+      "meleeDamage": 7.0,
+      "kiDamage": 0.0
+    },
+    "dragonminez:robot3": {
+      "Defense": 2,
+      "health": 150,
+      "meleeDamage": 7.0,
+      "kiDamage": 0.0
+    },
+    "dmzsparking:saga_hit": {
+      "health": 780000,
+      "meleeDamage": 11200.0,
+      "kiDamage": 10400.0
+    },
+    "dmzsparking:saga_jiren": {
+      "health": 1260000,
+      "meleeDamage": 17500.0,
+      "kiDamage": 16200.0
+    }
+  },
+  "transformDefaults": {
+    "healthMultiplier": 2.5,
+    "meleeMultiplier": 5.0,
+    "kiMultiplier": 5.0,
+    "triggerHealthPercent": 0.5,
+    "Transform2HealthMulti": 1.6,
+    "Transform2MeleeDamageMulti": 1.6,
+    "Transform2KiDamageMulti": 1.6,
+    "Transform2DefenseMulti": 1.0,
+    "Transform2ArmorMulti": 1.0,
+    "Transform2ArmorToughnessMulti": 1.0,
+    "Transform2ProtectionMulti": 1.0,
+    "Transform2MovementSpeedMulti": 1.0,
+    "Transform2TriggerPercent": 0.5,
+    "Transform3HealthMulti": 1.6,
+    "Transform3MeleeDamageMulti": 1.6,
+    "Transform3KiDamageMulti": 1.6,
+    "Transform3DefenseMulti": 1.0,
+    "Transform3ArmorMulti": 1.0,
+    "Transform3ArmorToughnessMulti": 1.0,
+    "Transform3ProtectionMulti": 1.0,
+    "Transform3MovementSpeedMulti": 1.0,
+    "Transform3TriggerPercent": 0.5
+  }
+}

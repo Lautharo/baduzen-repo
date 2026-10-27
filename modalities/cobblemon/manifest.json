@@ -1,0 +1,7 @@
+{
+    "ModalityId": "cobblemon",
+    "MinecraftVersion": "1.21.1",
+    "Loader": "Fabric",
+    "LoaderVersion": "0.16.10",
+    "Files": []
+}

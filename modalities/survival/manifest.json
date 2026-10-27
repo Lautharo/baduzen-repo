@@ -1,0 +1,26 @@
+{
+    "ModalityId": "survival",
+    "MinecraftVersion": "26.3",
+    "Loader": "Fabric",
+    "LoaderVersion": "0.19.3",
+    "Files": [
+        {
+            "RelativePath": "mods/fabric-api-0.165.0+26.3.jar",
+            "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
+            "Size": 1778588,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/fabric-api-0.165.0%2B26.3.jar"
+        },
+        {
+            "RelativePath": "mods/modmenu-21.0.0.jar",
+            "Sha256": "837812c6c98d66141db7b5dcae668f27fb78d557e8f4c0c89912985fc26a5e6f",
+            "Size": 856779,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/modmenu-21.0.0.jar"
+        },
+        {
+            "RelativePath": "mods/sodium-fabric-0.9.2+mc26.3.jar",
+            "Sha256": "87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a",
+            "Size": 1908068,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/sodium-fabric-0.9.2%2Bmc26.3.jar"
+        }
+    ]
+}

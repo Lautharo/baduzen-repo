@@ -1,0 +1,50 @@
+[
+    {
+        "Id": "survival",
+        "Name": "Survival BaduZen",
+        "Description": "Mundo persistente con economía, protecciones y optimización extrema.",
+        "MinecraftVersion": "26.3",
+        "Loader": "Fabric",
+        "LoaderVersion": "0.19.3",
+        "ServerAddress": "127.0.0.1:25565",
+        "RecommendedRamMb": 4096,
+        "AccentColor": "#10B981",
+        "Status": "ONLINE"
+    },
+    {
+        "Id": "cobblemon",
+        "Name": "Cobblemon Oficial",
+        "Description": "Captura, entrena y combate Pokémon en un mundo abierto con amigos.",
+        "MinecraftVersion": "1.21.1",
+        "Loader": "Fabric",
+        "LoaderVersion": "0.16.10",
+        "ServerAddress": "127.0.0.1:25566",
+        "RecommendedRamMb": 4096,
+        "AccentColor": "#3B82F6",
+        "Status": "ONLINE"
+    },
+    {
+        "Id": "rlcraft",
+        "Name": "RLCraft v2.9.3",
+        "Description": "Supervivencia hardcore realista con dragones, sed, temperatura y mazmorras.",
+        "MinecraftVersion": "1.12.2",
+        "Loader": "Forge",
+        "LoaderVersion": "14.23.5.2860",
+        "ServerAddress": "127.0.0.1:25567",
+        "RecommendedRamMb": 4608,
+        "AccentColor": "#EF4444",
+        "Status": "ONLINE"
+    },
+    {
+        "Id": "dragonball",
+        "Name": "Dragon Ball Z (1.20.1)",
+        "Description": "Entrena tu Ki, desbloquea transformaciones, sagas y combates épicos.",
+        "MinecraftVersion": "1.20.1",
+        "Loader": "Forge",
+        "LoaderVersion": "47.3.0",
+        "ServerAddress": "127.0.0.1:25568",
+        "RecommendedRamMb": 4608,
+        "AccentColor": "#F59E0B",
+        "Status": "EN PREPARACIÓN"
+    }
+]

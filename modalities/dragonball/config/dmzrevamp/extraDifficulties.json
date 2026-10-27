@@ -1,0 +1,14 @@
+{
+  "nightmare": {
+    "hpMultiplier": 4.0,
+    "damageMultiplier": 2.5,
+    "tpMultiplier": 1.5,
+    "questRewardMultiplier": 1.5
+  },
+  "youMustDie": {
+    "hpMultiplier": 10.0,
+    "damageMultiplier": 6.5,
+    "tpMultiplier": 2.5,
+    "questRewardMultiplier": 2.5
+  }
+}

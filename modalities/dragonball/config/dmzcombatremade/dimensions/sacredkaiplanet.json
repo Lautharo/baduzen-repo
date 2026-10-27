@@ -1,0 +1,41 @@
+{
+  "dimension": "dragonminez:sacredkaiplanet",
+
+  // Opts this dimension into the full zone/heat/tier/boss-gate/capsule-loot system, no safe ring.
+  "managed": true,
+
+  // Real DMZ biome_modifier data (sacredkai_monsters.json) - Mini Buu is the only DMZ-side
+  // hostile natural spawn here (a vanilla Enderman also spawns natively and is deliberately left
+  // alone by this mod). Weight kept at DMZ's own real value even with only one candidate.
+  "enemies": [
+    { "entity": "dragonminez:mini_buu", "weight": 4, "biomes": ["dragonminez:sacredkai_plains", "dragonminez:sacredkai_hills", "dragonminez:sacredkai_rivers"] }
+  ],
+
+  // Global tier slice on the shared 1-19 scale (see stats/ZoneHeatLevels) - real floors
+  // 2,589,955 to 3,000,000 (unbounded staged climb from here - the true pinnacle of the whole
+  // scale).
+  "tier_range": { "min": 18, "max": 19 },
+
+  // 10-to-60-minute linear pacing scale by tier position - Sacred Kai Planet is
+  // tier 18, the top of the scale.
+  "tier_up_duration_seconds": 3600,
+
+  // Tier floors and Zone Capsule loot for this dimension's own tiers - see namek.json for the full
+  // explanation of the dmzplus/base split. base holds the real shared 5-level ladder/point ranges
+  // every dimension uses without DMZPlus (identical here to every other dimension's own base block)
+  // - edit just this file's copy to override just Sacred Kai Planet in base mode.
+  "tier_floors": {
+    "dmzplus": { "18": 2589955, "19": 3000000 },
+    "base": { "1": 0, "2": 68000, "3": 200000, "4": 500000, "5": 1000000 }
+  },
+  "zone_capsule_tiers": {
+    "dmzplus": {
+      "18": { "min_points": 281, "max_points": 468 },
+      "19": { "min_points": 300, "max_points": 500 }
+    },
+    "base": {
+      "4": { "min_points": 10, "max_points": 25 },
+      "5": { "min_points": 50, "max_points": 100 }
+    }
+  }
+}
