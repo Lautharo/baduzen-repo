@@ -9,7 +9,7 @@
         "ServerAddress": "127.0.0.1:25565",
         "RecommendedRamMb": 4096,
         "AccentColor": "#10B981",
-        "Status": "ONLINE"
+        "Status": "OFFLINE"
     },
     {
         "Id": "cobblemon",
@@ -21,7 +21,7 @@
         "ServerAddress": "127.0.0.1:25566",
         "RecommendedRamMb": 4096,
         "AccentColor": "#3B82F6",
-        "Status": "ONLINE"
+        "Status": "OFFLINE"
     },
     {
         "Id": "rlcraft",
@@ -33,7 +33,7 @@
         "ServerAddress": "127.0.0.1:25567",
         "RecommendedRamMb": 4608,
         "AccentColor": "#EF4444",
-        "Status": "ONLINE"
+        "Status": "OFFLINE"
     },
     {
         "Id": "dragonball",
@@ -45,6 +45,18 @@
         "ServerAddress": "127.0.0.1:25568",
         "RecommendedRamMb": 4608,
         "AccentColor": "#F59E0B",
-        "Status": "EN PREPARACIÓN"
+        "Status": "OFFLINE"
+    },
+    {
+        "Id": "prueba",
+        "Name": "LA IVANA EN BOLAS",
+        "Description": "Me encanta la mami de geroooo.",
+        "MinecraftVersion": "1.20.1",
+        "Loader": "Forge",
+        "LoaderVersion": "47.4.10",
+        "ServerAddress": "127.0.0.1:25568",
+        "RecommendedRamMb": 4608,
+        "AccentColor": "#F59E0B",
+        "Status": "ONLINE"
     }
 ]
