@@ -5,6 +5,12 @@
     "LoaderVersion": "0.19.3",
     "Files": [
         {
+            "RelativePath": "mods/baduzen-client-auth-1.0.0.jar",
+            "Sha256": "e16cf90b38949a284e7a2f39f14e81102969b1ffe4bc0bcc8e33cfea5d1a7da3",
+            "Size": 2813,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/baduzen-client-auth-1.0.0.jar"
+        },
+        {
             "RelativePath": "mods/fabric-api-0.165.0+26.3.jar",
             "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
             "Size": 1778588,
