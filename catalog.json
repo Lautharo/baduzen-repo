@@ -1,6 +1,7 @@
 [
     {
         "Id": "survival",
+        "RequiresTicket": true,
         "Name": "Survival BaduZen",
         "Description": "Mundo persistente con economía, protecciones y optimización extrema.",
         "MinecraftVersion": "26.3",
@@ -9,8 +10,7 @@
         "ServerAddress": "127.0.0.1:25565",
         "RecommendedRamMb": 4096,
         "AccentColor": "#10B981",
-        "Status": "ONLINE",
-        "RequiresTicket": true
+        "Status": "ONLINE"
     },
     {
         "Id": "cobblemon",
