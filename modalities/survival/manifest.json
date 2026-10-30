@@ -2,7 +2,7 @@
     "ModalityId": "survival",
     "MinecraftVersion": "26.3",
     "Loader": "Fabric",
-    "LoaderVersion": "0.19.3",
+    "LoaderVersion": "0.20.0",
     "Files": [
         {
             "RelativePath": "mods/baduzen-client-auth-1.0.0.jar",

@@ -6,7 +6,7 @@
         "Description": "Mundo persistente con economía, protecciones y optimización extrema.",
         "MinecraftVersion": "26.3",
         "Loader": "Fabric",
-        "LoaderVersion": "0.19.3",
+        "LoaderVersion": "0.20.0",
         "ServerAddress": "190.114.117.140:25565",
         "RecommendedRamMb": 4096,
         "AccentColor": "#10B981",
