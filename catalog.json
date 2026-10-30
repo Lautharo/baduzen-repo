@@ -9,7 +9,8 @@
         "ServerAddress": "127.0.0.1:25565",
         "RecommendedRamMb": 4096,
         "AccentColor": "#10B981",
-        "Status": "ONLINE"
+        "Status": "ONLINE",
+        "RequiresTicket": true
     },
     {
         "Id": "cobblemon",
