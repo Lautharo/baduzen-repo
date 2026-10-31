@@ -2,6 +2,7 @@
     {
         "Id": "survival",
         "RequiresTicket": true,
+        "MonitorServer": true,
         "Name": "Survival BaduZen",
         "Description": "Mundo persistente con economía, protecciones y optimización extrema.",
         "MinecraftVersion": "26.3",
