@@ -46,6 +46,6 @@
         "ServerAddress": "127.0.0.1:25568",
         "RecommendedRamMb": 4608,
         "AccentColor": "#F59E0B",
-        "Status": "ONLINE"
+        "Status": "OFFLINE"
     }
 ]
