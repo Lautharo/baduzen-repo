@@ -1,7 +1,7 @@
 {
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "MinimumVersion": "1.0.0",
-    "DownloadUrl": "https://github.com/Lautharo/baduzen-repo/releases/download/v1.0.0/BaduZen.Launcher.exe",
-    "Sha256": "1C5E3D0CC73DB1A68818DBA854524752483D5838C57D548E99ED118792B7FAB7",
-    "Notes": "Versión inicial."
+    "DownloadUrl": "https://github.com/Lautharo/baduzen-repo/releases/download/v1.0.1/BaduZen.Launcher.exe",
+    "Sha256": "D0BBAE0982F8E0E876E3441A34160EFC07611316592F52EC930E21C0C23B3CCC",
+    "Notes": "Prueba de actualización automática."
 }
