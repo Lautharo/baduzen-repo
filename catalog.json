@@ -20,7 +20,7 @@
         "MinecraftVersion": "1.21.1",
         "Loader": "Fabric",
         "LoaderVersion": "0.16.10",
-        "ServerAddress": "127.0.0.1:25566",
+        "ServerAddress": "",
         "RecommendedRamMb": 4096,
         "AccentColor": "#3B82F6",
         "Status": "OFFLINE"
@@ -32,7 +32,7 @@
         "MinecraftVersion": "1.12.2",
         "Loader": "Forge",
         "LoaderVersion": "14.23.5.2860",
-        "ServerAddress": "127.0.0.1:25567",
+        "ServerAddress": "",
         "RecommendedRamMb": 4608,
         "AccentColor": "#EF4444",
         "Status": "OFFLINE"
@@ -44,7 +44,7 @@
         "MinecraftVersion": "1.20.1",
         "Loader": "Forge",
         "LoaderVersion": "47.4.10",
-        "ServerAddress": "127.0.0.1:25568",
+        "ServerAddress": "",
         "RecommendedRamMb": 4608,
         "AccentColor": "#F59E0B",
         "Status": "OFFLINE"
