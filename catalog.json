@@ -4,7 +4,7 @@
         "RequiresTicket": true,
         "MonitorServer": true,
         "HasExtras": true,
-        "MapUrl": "",
+        "MapUrl": "http://190.114.117.140:8100",
         "Name": "Survival BaduZen",
         "Description": "Mundo persistente con economía, protecciones y optimización extrema.",
         "MinecraftVersion": "26.3",
