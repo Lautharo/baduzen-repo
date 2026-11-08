@@ -11,6 +11,18 @@
             "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/baduzen-client-auth-1.0.0.jar"
         },
         {
+            "RelativePath": "mods/chat_heads-1.3.2-fabric-26.3.jar",
+            "Sha256": "1da6f5e86ba3920e096509e1d6d7bb5613b7458ff5b2d4be7144925e0d3f545d",
+            "Size": 98686,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/chat_heads-1.3.2-fabric-26.3.jar"
+        },
+        {
+            "RelativePath": "mods/CustomSkinLoader_Universal-15.1.jar",
+            "Sha256": "c8769a38b3cc1da2a7b2f5827d1a53a24cd1ef6d0784b1eb545569f5882a2ffb",
+            "Size": 222917,
+            "Url": "https://raw.githubusercontent.com/Lautharo/baduzen-repo/main/modalities/survival/mods/CustomSkinLoader_Universal-15.1.jar"
+        },
+        {
             "RelativePath": "mods/fabric-api-0.165.0+26.3.jar",
             "Sha256": "18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88",
             "Size": 1778588,
