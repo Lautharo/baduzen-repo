@@ -23,7 +23,7 @@
     "MinecraftVersion": "1.21.1",
     "Loader": "Fabric",
     "LoaderVersion": "0.16.10",
-    "ServerAddress": "",
+    "ServerAddress": "190.114.117.140:25566",
     "RecommendedRamMb": 4096,
     "AccentColor": "#3B82F6",
     "Status": "ONLINE"
