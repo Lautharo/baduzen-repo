@@ -19,7 +19,7 @@
   {
     "Id": "cobblemon",
     "Name": "Cobblemon BaduZen",
-    "Description": "Captura, entrena y combate Pokémon en un mundo abierto con amigos.",
+    "Description": "Captura, entrena y combate Pokémon en un mundo abierto con amigos...",
     "MinecraftVersion": "1.21.1",
     "Loader": "Fabric",
     "LoaderVersion": "0.16.10",
