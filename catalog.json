@@ -54,5 +54,22 @@
     "RecommendedRamMb": 4608,
     "AccentColor": "#F59E0B",
     "Status": "OFFLINE"
+  },
+  {
+    "Id": "prueba-3-amigo",
+    "Description": "",
+    "ServerAddress": "",
+    "MapUrl": "",
+    "MapBackupUrl": "",
+    "Status": "OFFLINE",
+    "RequiresTicket": false,
+    "MonitorServer": false,
+    "HasExtras": false,
+    "Loader": "Vanilla",
+    "LoaderVersion": "",
+    "Name": "prueba 3 amigo",
+    "MinecraftVersion": "1.8",
+    "AccentColor": "#000000",
+    "RecommendedRamMb": 4096
   }
 ]
